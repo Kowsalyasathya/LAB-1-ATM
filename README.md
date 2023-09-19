@@ -7,9 +7,10 @@ System.
 To create ATM System software that will meet the needs of the applicant and help them
 to withdraw money,deposit.
 ## UML DIAGRAMS:
+```
 DEVELOPED BY: KOWSALYA M
 REGISTER NO: 212222230069
-
+```
 ## USECASE DIAGRAM:
 ![ATM1](https://github.com/Kowsalyasathya/LAB-1-ATM/assets/118671457/4a2acc7a-35dc-4ce5-8d95-9dfb16b49c87)
 ## SEQUENCE DIAGRAM:
@@ -19,7 +20,8 @@ REGISTER NO: 212222230069
 ## STATE CHART DIAGRAM:
 ![ATM3](https://github.com/Kowsalyasathya/LAB-1-ATM/assets/118671457/d03aea3b-9199-4bc4-80b5-81fdf3f7ac34)
 ## ACTIVITY DIAGRAM:
-![ATM5](https://github.com/Kowsalyasathya/LAB-1-ATM/assets/118671457/253aa351-33dd-4e53-951d-5a8b1e136d8b)
+![ATM6](https://github.com/Kowsalyasathya/LAB-1-ATM/assets/118671457/b58feb6d-55b2-46e2-81a1-a579782274f0)
+
 
 ## RESULT: 
 Thus the Atm and banking System project was executed and the output was verified.
